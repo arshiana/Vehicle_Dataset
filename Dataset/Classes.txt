@@ -1,0 +1,9 @@
+car
+truck
+rickshaw
+bicycle
+motorcycle
+cng
+tomtom
+bus
+pedestrain
